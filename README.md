@@ -29,5 +29,3 @@ This project uses the YouTube Data API to extract and analyze data from YouTube 
 
 - Bar charts comparing subscribers
 - Histograms of video views
-
----
